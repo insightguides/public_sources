@@ -1,4 +1,7 @@
-<Response>
-<Say voice="alice">Haha Piotor, You are a stupid guy !</Say>
-<Play>http://demo.twilio.com/docs/classic.mp3</Play>
-</Response>
+<Say voice="alice">
+Hello, my name is Michael, nice to meet u.
+</Say>
+<Pause length="1"/>
+<Say voice="alice">
+I just want to say again,haha.
+</Say>
